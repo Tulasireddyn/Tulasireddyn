@@ -98,7 +98,7 @@ Tools         →  Git · FPDF · Next.js · Serper API
 ## Let's connect
 
 I'm open to AI/ML engineering roles — startups, MNCs, research teams.
-If you're building something interesting in NLP, multi-agent AI, or computer vision, let's talk.
+If you're building something interesting in NLP, multi-agent AI, GEN AI, or computer vision, let's talk.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tulasi--reddy-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/tulasi-reddy)
 [![Email](https://img.shields.io/badge/Email-tulasi1126@gmail.com-EA4335?style=flat&logo=gmail)](mailto:tulasi1126@gmail.com)
