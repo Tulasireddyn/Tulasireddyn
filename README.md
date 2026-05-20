@@ -8,7 +8,7 @@ I build intelligent systems from research to production. Currently finishing my 
 
 ## About me
 
-- 🎓 B.Tech Artificial Intelligence & Machine Learning — Woxsen University (2022–2026) · CGPA 7.3
+- 🎓 B.Tech Artificial Intelligence & Machine Learning — Woxsen University (2022–2026) · 
 - 💼 NLP & ML Intern @ **Ransh Innovations Pvt. Ltd** (Feb–Jul 2025) — shipped a production LLM-powered news aggregation pipeline serving real regional content
 - 📄 Co-Inventor — Indian Patent Application No. **202541080519 A** · Hybrid-Powered Sugarcane Harvesting Device (Filed Aug 2025)
 - 📍 Hyderabad, India
