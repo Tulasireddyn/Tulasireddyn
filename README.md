@@ -12,7 +12,28 @@ I build intelligent systems from research to production. Currently finishing my 
 - 💼 NLP & ML Intern @ **Ransh Innovations Pvt. Ltd** (Feb–Jul 2025) — shipped a production LLM-powered news aggregation pipeline serving real regional content
 - 📄 Co-Inventor — Indian Patent Application No. **202541080519 A** · Hybrid-Powered Sugarcane Harvesting Device (Filed Aug 2025)
 - 📍 Hyderabad, India
-- 📩 tulasi1126@gmail.com · [LinkedIn](https://linkedin.com/in/tulasi-reddy)
+- 📩 tulasi1126@gmail.com · [LinkedIn](https://www.linkedin.com/in/tulasi-reddy-b86487256)
+
+## Work experience
+
+### NLP & Machine Learning Intern — Ransh Innovations Pvt. Ltd
+*Feb 2025 – Jul 2025 · Remote*
+
+**Problem:** Manual categorization of high-volume regional news fails to scale — subtopic detection, keyword tagging, and location-based insights required automation.
+
+**Solution:** Built an LLM-powered news aggregation pipeline using prompt engineering for automated subtopic detection, eliminating manual categorization of regional news content.
+
+- Extracted keywords via **KeyBERT** and ran **NER** to identify entities and locations, generating location-based insights and article density heatmaps overlaid on an India map
+- Integrated **Sentence-BERT** for semantic clustering and similarity search
+- Backed by **Supabase** for real-time news ingestion and vector-based querying
+
+---
+
+## Patent
+
+📄 **Hybrid-Powered Sugarcane Harvesting Device**
+Co-Inventor · Indian Patent Application No. 202541080519 A
+Filed: August 2025 · Published: September 2025
 
 ---
 
@@ -70,26 +91,7 @@ Tools         →  Git · FPDF · Next.js · Serper API
 
 ---
 
-## Work experience
 
-### NLP & Machine Learning Intern — Ransh Innovations Pvt. Ltd
-*Feb 2025 – Jul 2025 · Remote*
-
-**Problem:** Manual categorization of high-volume regional news fails to scale — subtopic detection, keyword tagging, and location-based insights required automation.
-
-**Solution:** Built an LLM-powered news aggregation pipeline using prompt engineering for automated subtopic detection, eliminating manual categorization of regional news content.
-
-- Extracted keywords via **KeyBERT** and ran **NER** to identify entities and locations, generating location-based insights and article density heatmaps overlaid on an India map
-- Integrated **Sentence-BERT** for semantic clustering and similarity search
-- Backed by **Supabase** for real-time news ingestion and vector-based querying
-
----
-
-## Patent
-
-📄 **Hybrid-Powered Sugarcane Harvesting Device**
-Co-Inventor · Indian Patent Application No. 202541080519 A
-Filed: August 2025 · Published: September 2025
 
 ---
 
